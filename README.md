@@ -1,4 +1,4 @@
-# Price-Elasticity-of-Deman-Prediction
+# Price-Elasticity-of-Demand-Prediction
 Price elasticity of demand measures the relative percentage change in Quantity
 
 Price elasticity of demand measures the realtive percentage change in Quantity of a good and services in relative to percentage change in price of the goods and services.
